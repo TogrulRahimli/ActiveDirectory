@@ -6,7 +6,7 @@ public class MainClass {
 
     public static void main(String[] args) {
         try {
-            AuthActiveDirectory.getConnection("Togrul", "Rehimli2991");
+            AuthActiveDirectory.getConnection("Togrul", "togrul123");
         } catch (Exception ex) {
             ex.printStackTrace();
         }
